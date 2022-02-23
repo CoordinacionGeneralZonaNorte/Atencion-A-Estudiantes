@@ -1,0 +1,66 @@
+La Coordinación General Zona Norte ya Cuenta con Pagina web
+La creo Kike, por lo que no se puede tener acceso, ya que Kike desarrolló ese "Show"
+
+----------------------------------------------------------
+
+Para subir la página que se está desarrollando, se necesita lo siguiente:
+*Servidor
+*Usuario
+*Contraseña
+
+¿Qué se pretende?
+Hablar con los encargados de "los que suben las páginas web", que se denominan "Administradores de host" para que se pueda crear un espacio especial para la Coordinación de Atención A Estudiantes y Gestión Escolar de la Zona Norte.
+El administrador del Host (un host es un equipo que está conectado a la red y que provee el servicio de almacenar un sitio web, es el lugar donde viven las páginas web) maneja el domino (servidor), por lo que el Administrador del Host crea y comparte la Cuenta y Contraseña por FTP
+Por ejemplo: En el Tecnológico, se maneja lo siguiente:
+*Servidor (Padre): www.itiguala.edu.mx (dominio)
+*Usuario (Hijo): dsc.itiguala.edu.mx
+*Contraseña: ************
+
+Para la creación de la página web de la Coordinación de Atención a Estudiantes, se establece lo siguiente:
+*Servidor (padre): www.uagro.mx
+*Usuario (Hijo): CoordinacionAtencionEstudiantes.uagro.mx
+*Contraseña: aEstudiantes2021
+
+
+Es la creación de un sitio web, que contiene las siguientes páginas web:
+*Inicio
+*Servicio Social
+*Servicios Escolares
+*Becas
+*Deportes
+*Casas de Estudiantes
+*Oferta Educativa, que atiende la Región Zona Norte y Tierra Caliente
+
+"Nos han pedido mucho que haya cosas que solo compartamos, entonces en ese sentido no tiene caso..., estaba yo pensando... si me gustaría que una vez que YA quede todo eso estructurado, y eso sea página de ATENCIÓN A ESTUDIANTE y nada mas. Ya lo del Facebook y esas madres no, no le entro mucho"
+
+--------------------------------------------------------------------------------------------------
+
+Primer paso es ser Becario como:
+Rondin, Pau, Ivanop, (Josh estaba de becario, pero se atendió y ahora es Jefe)
+
+Carreras:
+Licenciatura en Matemática Educativa
+Ingeniería en Sistemas Computacionales
+
+Maestro Alejandro:
+*Le comentamos sobre contratarme
+*Se le entregó el Curriculum Vitae y se le entrgó a Yidam
+
+-----------------------------------------------------
+
+Centro Regional de Educacion Superior Campus Zona Norte
+
+Requisitos para realizar el trámite de titulación
+Agendar cita trámite de Título o Grado Académico
+Concultar cita trámite de Título o Grado Académico [Acapulco]
+Modalidad de Titulación, todas, a excepcion de Titulacion Expedita y por EGEL
+
+*
+*REQUISITOS PARA TRÁMITE DE GRADO
+
+
+
+************CASAS DE ESTUDIANTES*************
+Número de estudiantes a albergar
+Reglamento interno
+Reglamento de la universidad
